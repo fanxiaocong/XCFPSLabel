@@ -1,0 +1,6 @@
+framework module XCHover {
+  umbrella header "XCHover-umbrella.h"
+
+  export *
+  module * { export * }
+}

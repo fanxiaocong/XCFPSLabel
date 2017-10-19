@@ -1,0 +1,6 @@
+framework module Pods_XCFPSLabelExampleUITests {
+  umbrella header "Pods-XCFPSLabelExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
